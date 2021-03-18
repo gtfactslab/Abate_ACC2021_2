@@ -1,11 +1,11 @@
 
 % Title: Improving the Fidelity of Mixed-Monotone Reachable Set 
 %        Approximations via State Transformations
-% Submitted to American Controls Conference (ACC), 2021
+% Conference: American Controls Conference (ACC), 2021
 % Author: Matthew Abate and Samuel Coogan
 
 % Code Author: Matthew Abate
-% Date: 9/27/2020
+% Date: 3/18/2021
 % Description:  This script generates Figure 1.
 %               Parallelogram approximations of reachable sets are computed
 %               for a given system by applying Theorem 1.
